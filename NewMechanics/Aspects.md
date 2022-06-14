@@ -2,27 +2,27 @@
 
 ## Overview
 
-### Aspect1
+### Space
 
-### Aspect2
+### Time
 
-### Aspect3
+### Mind
 
-### Aspect4
+### Heart
 
-### Aspect5
+### Hope
 
-### Aspect6
+### Rage
 
-### Aspect7
+### Breath
 
-### Aspect8
+### Blood
 
-### Aspect9
+### Life
 
-### Aspect10
+### Doom
 
-### Aspect11
+### Light
 
-### Aspect12
+### Void
 
