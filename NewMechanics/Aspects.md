@@ -35,8 +35,8 @@ Page inversion: Whenever the player is at penalties for being surprised, increas
 #### Mechanics
 Gain a dot in a social attribute
 ##### Ability
-All rolls that would interact with an alternate self (Dream selves, alternate selves, brain ghost selves) gain a one dice bonus.
-Page inversion: All rolls that would interact with an alternate self gain a one dice penalty.
+All rolls that would interact with an alternate self (Dream selves, alternate selves, brain ghost selves) gain a one dice bonus. When spending willpower for +3 dice, instead gain +4.
+Page inversion: All rolls that would interact with an alternate self gain a one dice penalty. When spending willpower for +3 dice, instead gain +2.
 
 ### Hope
 >“Those bound to the aspect of Hope are driven first and foremost by their convictions. They do right for right's sake, and are quick to come to the aid of anyone they deem to be experiencing injustice. That said, their views of the world can be quite black and white, so what they see as the "right" thing may not always be the universally accepted view. They put great value in the power of the imagination, the ability to dream up a better and more beautiful future. If anyone could dream a better world into existence, it would be one of the Hope-bound. They may sound like all sunshine and rainbows, but they aren't adverse to a little destruction, especially if they think they can replace it with something better and more just. At their best, Hope-bound are positive, caring, and warm. At their worst they can be narrow-minded and selfish.”
