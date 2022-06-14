@@ -10,6 +10,7 @@ We don't have proper canon descriptions for all the classes, so I'm doing some i
 ### Thief
 > One who steals or steals from [Aspect] to benefit themself  
 #### Speculation Zone
+Thieves cannot grow or heal their aspect. They can gain it for themselves, but only by taking it from others. Any attempt to give it should backfire narratively.
 #### Mechanics
 Powers should focus on taking things away from others, and buffing yourself.
 Debuffs/SelfBuffs
