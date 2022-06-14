@@ -10,6 +10,7 @@ The primary focus of this conversion is to maintain a ludonarrative that enforce
 ## Chargen
   - Changes
   - Required Merits
+  - Food for Paradox Space
 ## New Mechanics 
   - Classes
   - Aspects
