@@ -19,3 +19,7 @@ The primary focus of this conversion is to maintain a ludonarrative that enforce
 ## Progression
   - The Echeladder and you
   - God Tiers: Why and how did we get here?
+## So you want to try to run this thing
+  - God help you
+  - Narrative Simultaneity
+  - Here's what I've learned (Hopefully)
