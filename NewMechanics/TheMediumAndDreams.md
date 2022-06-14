@@ -22,7 +22,7 @@ Sleeping whilst one of your selves is dead will send you to the Dream Bubbles (C
 Don't let the players find these until the story is ready. I don't care how hard they look, or if they can prove they should be able to find them. These bad boys are narrative.
 
 ## The Moons
-Prospit and Derse each have their own governmental system that should be fleshed out as appropriate to the game. I plan on including them much more heavily in my game, because it's really the only place to get game NPCs of a moderate level of power and agency.
+Prospit and Derse each have their own governmental system that should be fleshed out as appropriate to the game. I plan on including them much more heavily in my game, because it's really the only place to get game NPCs of a moderate level of power and agency. Whilst the moons are at war, combat is primarily limited to the battlefield, although who's to say what covert agents may get up to.
 
 Each moon contains portals to the outer ring, and to the battlefield. Searching for a portal is a wits + investigation/survival check.
 
