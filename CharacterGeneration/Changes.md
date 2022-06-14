@@ -7,6 +7,7 @@ Character generation works similarly to base nWoD, with a few core changes.
 - When choosing your specialties, also choose an AntiSpecialty
 - Choose a Class and an Aspect
 - Choose your Strife Specibus
+- Add mandatory merits
 
 ### Draw and Flaw
 Your draw is what makes being friends with your character worthwhile. It's the primary positive force you provide to other's lives. Your flaw is what makes being friends with your character difficult, and can inconvenience yourself and others.
@@ -25,3 +26,6 @@ During character generation, choose a class and an aspect. Think about the meani
 
 ### Strife Specibus
 By default, your character begins with a single weapon in their strife portfolio. This is the only weapon type they can wield. If you would like, you can wait until your character first grabs an object to defend themself with to decide on this. Note that certain weapon classes may have style merits available, such as PuppetKind or FncySntaKind. (In theory any weapon class may have style merits, but not all will necessarily be made by me)
+
+### Mandatory Merits
+These merits gain a number of free starting dots, although they may be upgraded (with certain limits) during character generation like all other merits.
