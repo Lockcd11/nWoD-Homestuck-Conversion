@@ -7,7 +7,7 @@ This doesn't tonally work with homestuck (at least the way I read it, feel free 
 ## Draw
 Your character's draw is what makes them easy to be friends with, it's the reason everyone keeps them around. Think Jade's genuine positivity, or Dave's sense of humor.
 
-With the same frequency as a vice, your character may engage in their Draw to give a point of willpower to another player. Thanks Bud.
+With the same frequency as a vice, your character may engage in their Draw to give a point of willpower to another player. Thanks Bud. This point of willpower may be declined by the other player if their character refuses to engage. (For example, if they "Aren't in the mood for your bullshit right now")
 
 ## Flaw
 Your character is unfortunately, a bit of a mess. Your flaw is one of the primary ways this can manifest. Think John's tantrum spirals, or Vriska's relentless bullshit.
