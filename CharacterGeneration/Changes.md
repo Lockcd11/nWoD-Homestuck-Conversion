@@ -28,4 +28,10 @@ During character generation, choose a class and an aspect. Think about the meani
 By default, your character begins with a single weapon in their strife portfolio. This is the only weapon type they can wield. If you would like, you can wait until your character first grabs an object to defend themself with to decide on this. Note that certain weapon classes may have style merits available, such as PuppetKind or FncySntaKind. (In theory any weapon class may have style merits, but not all will necessarily be made by me)
 
 ### Mandatory Merits
-These merits gain a number of free starting dots, although they may be upgraded (with certain limits) during character generation like all other merits.
+During character generation, you start with a free dot in the following merits.
+
+- House
+- Guardian
+- Fame (Prospit, Derse, Denizens)
+
+These may be increased with your starting 7 merit dots. (Certain limits may apply)
