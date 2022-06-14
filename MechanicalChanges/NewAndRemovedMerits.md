@@ -1,5 +1,5 @@
 # New and Removed Merits
 
-# New Merits
+## New Merits
 
-# Removed Merits
+## Removed Merits
