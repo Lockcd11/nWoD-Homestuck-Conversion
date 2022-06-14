@@ -26,7 +26,7 @@ Prospit and Derse each have their own governmental system that should be fleshed
 
 Each moon contains portals to the outer ring, and to the battlefield. Searching for a portal is a wits + investigation/survival check.
 
-Finding a portal to the battlefield is difficulty 2, to the furthest ring is difficulty 3, to your own moon is difficulty 1, and to the opposing moon is difficulty 4. The storyteller may also place portals in locations at will. If it bothers you enough, add portal finding to your kiddy camper handy sash.
+Finding a portal to the battlefield is difficulty 2, to the veil is difficulty 3, to your own moon is difficulty 1, and to the opposing moon is difficulty 4. The storyteller may also place portals in locations at will. If it bothers you enough, add portal finding to your kiddy camper handy sash.
 
 ### Prospit
 Prospit is a bright, friendly place and contains the white carapacians. It's within spitting distance of skaia, which gives prospit dreamers occasional cryptic glimpses into the future.
@@ -38,7 +38,7 @@ Derse is a grim, dark place and contains the black carapacians. It's within spit
 
 HorrorTerror knowledge should be eldritch and directed, an actionable request that information can be gleaned from. Write it down. When you complete the request, you recieve a boon. Consequences may vary.
 
-### The Furthest Ring
+### The Veil
 An asteroid belt, slowly being torn apart to form the reckoning. Also the cloning vats and shipyards for the vast forces of Prospit and Derse. Great place for ectobiology, or being haunted.
 
 ### The Battlefield
