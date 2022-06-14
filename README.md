@@ -2,24 +2,24 @@
 This is my wip homestuck conversion for nWoD
 
 ## Mechanical Changes
-  - Virtue/Vice -> Draw/Flaw
-  - Antispecialty
-  - New and Removed Merits
+  - Virtue/Vice -> Draw/Flaw [Test-ready]
+  - Antispecialty [Test-Ready]
+  - New and Removed Merits [to-do]
 ## Chargen
-  - Changes
-  - Required Merits
-  - Food for Paradox Space
+  - Changes [partial]
+  - Required Merits [partial]
+  - Food for Paradox Space [to-do]
 ## New Mechanics 
-  - Classes
-  - Aspects
-  - Grist
-  - SBurb
-  - Punch Card Alchemy
-  - Prospit, Derse and Dreaming
+  - Classes [Test-ready]
+  - Aspects [Test-ready]
+  - Grist [to-do]
+  - SBurb [to-do]
+  - Punch Card Alchemy [Test-ready]
+  - Prospit, Derse and Dreaming [test-ready]
 ## Progression
-  - The Echeladder and you
-  - God Tiers: Why and how did we get here?
-## So you want to try to run this thing
-  - God help you
+  - The Echeladder and you [to-do]
+  - God Tiers: Why and how did we get here? [late to-do]
+## So you want to try to run this thing [all to do]
+  - God help you 
   - Narrative Simultaneity
   - Here's what I've learned (Hopefully)
