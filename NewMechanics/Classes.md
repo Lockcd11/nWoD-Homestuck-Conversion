@@ -2,28 +2,33 @@
 
 ## Overview
 
-### Class1
+### On gendered classes
+Don't worry about it
 
-### Class2
+### Thief
 
-### Class3
+### Rogue
 
-### Class4
+### Bard
 
-### Class5
+### Prince
 
-### Class6
+### Heir
 
-### Class7
+### Page
 
-### Class8
+### Seer
 
-### Class9
+### Maid
 
-### Class10
+### Sylph
 
-### Class11
+### Knight
 
-### Class12
+### Witch
+
+### Mage
 
 ### Master Classes
+#### Muse
+#### Lord
