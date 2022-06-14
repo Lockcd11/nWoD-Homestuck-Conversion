@@ -1,6 +1,6 @@
 # AntiSpecialties
 
-AntiSpecialties represent things your character a knowledgable about, and theoretically skilled at, but is prone to catastrophically misexecuting.
+AntiSpecialties represent things your character a knowledgable about, and theoretically skilled at, but is prone to catastrophic misexecution for whatever reason. Things like Karkat's hacking, or Equius' Archery.
 
 AntiSpecialties have a similar design to specialties, and anything that can be chosen as a specialty can be chosen as an AntiSpecialty, with the same scope, (note that you must still have a dot in the base skill to take an AntiSpeciaty, there's nothing special about failing something you're bad at)
 
