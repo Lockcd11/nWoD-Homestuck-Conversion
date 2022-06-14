@@ -1,8 +1,6 @@
 # nWoD-Homestuck-Conversion
 This is my wip homestuck conversion for nWoD
 
-The primary focus of this conversion is to maintain a ludonarrative that enforces the tone of homestuck.
-
 ## Mechanical Changes
   - Virtue/Vice -> Draw/Flaw
   - Antispecialty
