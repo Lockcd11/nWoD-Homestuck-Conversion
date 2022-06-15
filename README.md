@@ -16,7 +16,7 @@ This is my wip homestuck conversion for nWoD
   - Punch Card Alchemy [Test-ready]
   - Prospit, Derse and Dreaming [test-ready]
 ## Progression
-  - The Echeladder and you [to-do]
+  - The Echeladder and you [Partial]
   - God Tiers: Why and how did we get here? [late to-do]
   - Classpect Abilities [to-do]
 ## So you want to try to run this thing [all to do]
