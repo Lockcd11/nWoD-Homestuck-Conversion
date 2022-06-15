@@ -23,6 +23,7 @@ This is where things get weird. If you have computer access, you can do server p
 
 ### Server Player Abilities
 While acting as the server player, you can do the following actions within the house of the client. You also know the location of the client if they are within the house or its immediate vicinity, and can see the area from an isometric angle, ignoring walls and ceilings as required.
+Grist costs and recycling are based on the client players grist stoncks.
 #### Changing the environment
 Adding or removing objects or terrain is an action that uses Wits and Computers. Difficulty 1 is for simple things like adding a window, or extending a wall. Difficulty 2 is ensuring a door can be opened when placed, difficulty 4 is anything involving stairs. If you fail, you create difficult terrain, based on how hard you fucked it. If you fail to make a useable door, it's gotta be squeezed through. I think we've all been warned about the other thing by now. In general, adding new things costs grist equal to the difficulty.  
 Recycling uses int and composure. For each success, gain a grist. Your client will not thank you. You are destroying their house. 
