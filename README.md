@@ -11,13 +11,14 @@ This is my wip homestuck conversion for nWoD
 ## New Mechanics 
   - Classes [Test-ready]
   - Aspects [Test-ready]
-  - Grist [to-do]
-  - SBurb [to-do]
+  - Grist [Test-ready (barely)]
+  - SBurb [Test-ready]
   - Punch Card Alchemy [Test-ready]
   - Prospit, Derse and Dreaming [test-ready]
 ## Progression
   - The Echeladder and you [to-do]
   - God Tiers: Why and how did we get here? [late to-do]
+  - Classpect Abilities [to-do]
 ## So you want to try to run this thing [all to do]
   - God help you 
   - Narrative Simultaneity
