@@ -6,9 +6,8 @@ This is my wip homestuck conversion for nWoD
   - Antispecialty [Test-Ready]
   - New and Removed Merits [to-do]
 ## Chargen
-  - Changes [partial]
-  - Required Merits [partial]
-  - Food for Paradox Space [to-do]
+  - Changes [Needs merits]
+  - Food for Paradox Space [Test-Ready]
 ## New Mechanics 
   - Classes [Test-ready]
   - Aspects [Test-ready]
