@@ -6,7 +6,7 @@
 >“Those bound to the aspect of Space are, as the name suggests, concerned with the big picture. They are patient, masters of the art of 'wait-and-see', and are inclined to take things as they come. That isn't to say that they're pushovers or willing to let injustice lie-they just choose their battles wisely, understanding that sometimes you have to let something burn to the ground in order to build it back better and stronger than before. To this effect, they tend to be innovators, concerned with creation and redemption. Catch them recycling the old to make the new, the fresh, and the beautiful. For the Space-bound, the journey is as, if not more, important than the destination; how they do something is as important as what they do. At their best, they are steady, impartial, and creative. At their worst, they can be detached, apathetic, and vague.”
 > \- The Extended Zodiac
 #### Mechanics
-Gain a dot in a mental attribute
+Gain a dot in a Power attribute
 ##### Ability
 Space players gain a +1 bonus to all alchemy rolls. In addition, increase their movement speed by 1.  
 Page inversion: Pages of space increaes all penalties from difficult terrain by 1. Complete garbage made using alchemy should be even stupider.  
@@ -42,7 +42,7 @@ Page inversion: All rolls that would interact with an alternate self gain a one 
 >“Those bound to the aspect of Hope are driven first and foremost by their convictions. They do right for right's sake, and are quick to come to the aid of anyone they deem to be experiencing injustice. That said, their views of the world can be quite black and white, so what they see as the "right" thing may not always be the universally accepted view. They put great value in the power of the imagination, the ability to dream up a better and more beautiful future. If anyone could dream a better world into existence, it would be one of the Hope-bound. They may sound like all sunshine and rainbows, but they aren't adverse to a little destruction, especially if they think they can replace it with something better and more just. At their best, Hope-bound are positive, caring, and warm. At their worst they can be narrow-minded and selfish.”
 > \- The Extended Zodiac
 #### Mechanics
-gain a dot in a social attribute
+gain a dot in a Resistance attribute
 ##### Ability
 Whenever the player uses their draw to give another player a point of willpower, they also gain a point of willpower.  
 Page inversion: Whenever the player would to use their draw to give another player a point of willpower, instead only the page gains a point of willpower.  
@@ -106,7 +106,7 @@ Page inversion: The storyteller may force one reroll per session, so long as the
 > \- The Extended Zodiac
 When designing void classes and powers, remember that because void can be seen as nothing, it can also be used to invert what the classes do normally.
 #### Mechanics
-gain a dot in a mental attribute
+gain a dot in a Finesse attribute
 ##### Ability
 Void players gain a specialty in brawl: Unarmed. Void players suffer no untrained penalties.  
 Page inversion: Increase all untrained penalties by one. (Page of void could alternatively be interpreted as one of the most powerful start classes in the game, but it would have to become absolutely terrible at high levels. If taking this, (and I don't know whether I love or hate it) instead of increasing untrained penalties by one, the page gains a dot in all untrained skills.)  
