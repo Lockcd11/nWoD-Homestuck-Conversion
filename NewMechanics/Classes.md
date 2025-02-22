@@ -141,3 +141,7 @@ Mages start with a dot in a mental or social skill of their choice (but they do 
 
 #### Lord
 ##### Speculation Zone
+
+#### Waste
+
+##### Speculation Zone
